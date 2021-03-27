@@ -1,0 +1,17 @@
+To curate our quallity EIM(Economy Industry in Motion) strives that every member, Freelancer or company will abide by the following rules: 
+
+# Only place a jobplacement that you can afford
+# When doing a job placement via EIM you are not allowed to do financial business between Contract giver and taker outside of the bank of EIM.
+
+
+For a job placement are general structures:
+# There is a job placement fee, this fee is seperate from the job cost and not refundable.
+## 15% up to 5m UEC
+## 10% up to 15m UEC
+## 5% up to 25m UEC
+## 1% above 50m UEC
+
+# The Price for a job article must be paid in predetermined sections and will stay on the EIM bank till completion / cancelation
+## 20% at placement 
+## 50% at start of the job
+## 30% at the finish of the job.

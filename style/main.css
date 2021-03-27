@@ -1,0 +1,78 @@
+BODY {
+  margin: 10px 30px;
+}
+TABLE {
+  font-family: georgia, serif;
+  font-size: 11pt;
+  padding: 15px;
+}
+TH {
+  border-bottom: solid 1px black;
+  font-size: 24pt;
+  font-weight: bold;
+  padding-top: 30px;
+}
+H1 {
+  font-size: 42pt;
+}
+H4 {
+  color: #666;
+  background-color: #fee;
+  border: solid 1px #caa;
+  margin: 10px 0px 5px 0px;
+  padding: 5px;
+}
+P {
+  margin: 10px 15px 5px 15px;
+}
+TD.sections {
+  background: black;
+  color: white;
+  font-family: georgia, serif;
+  font-weight: bold;
+  font-size: 9pt;
+  padding: 5px;
+}
+TD.sections A {
+  color: #cceeff;
+}
+TD.sections A:link {
+  color: #cceeff;
+}
+TD.sections A:visited {
+  color: #cceeff;
+}
+TD.sections A:active {
+  color: #eeeeee;
+}
+TD.sections A:hover {
+  color: #eeeeee;
+}
+
+TD.example1 PRE {
+  background-color: #b30;
+  color: white;
+  font-family: georgia, serif;
+  font-weight: bold;
+  font-size: 9pt;
+  padding: 5px;
+}
+TD.example2 P {
+  border: solid 1px #ddd;
+  background-color: #eee;
+  font-family: georgia, serif;
+  font-size: 9pt;
+  padding: 5px;
+}
+TD.example3 {
+  border: solid 1px #eed;
+  background-color: #ffe;
+  padding: 5px;
+}
+.big {
+  font-size: 15pt;
+}
+#big-red {
+  font-size: 15pt;
+  color: red;
+}
