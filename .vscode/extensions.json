@@ -1,3 +1,6 @@
 {
-  "recommendations": ["gehdoc.vscode-textile-preview"]
+  "recommendations": [
+    "gehdoc.vscode-textile-preview",
+    "michaelnewton.textile-preview"
+  ]
 }
